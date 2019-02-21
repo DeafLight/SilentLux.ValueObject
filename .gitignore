@@ -1,0 +1,16 @@
+*.cd
+*.csproj.user
+*.suo
+*.dll
+*.nupkg
+*.sln.DotSettings
+*.sln.DotSettings.user
+.vs
+.vssbe*
+bin
+localPackages
+logs
+nugets
+obj
+output
+packages

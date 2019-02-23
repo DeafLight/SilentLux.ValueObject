@@ -1,1 +1,1 @@
-ValueObject
+# SilentLux.ValueObject

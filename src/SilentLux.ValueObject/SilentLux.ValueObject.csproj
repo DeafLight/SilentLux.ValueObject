@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>SilentLux.ValueObject</RootNamespace>
+    <Authors>SilentLux</Authors>
+    <Description>Base class for creating value objects</Description>
+    <Copyright>SilentLux 2019</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
